@@ -1,10 +1,9 @@
-# Game Tic Tac Toe
+# Portfolio webpage
 I used a ready template that I remodel to create a webpage portfolio. Live demo: [_here_](https://mateusz-ramotowski-poland.github.io/portfolio-webpage/).
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-<!-- * [Features](#features) -->
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
@@ -28,14 +27,18 @@ I was using Chrome developer tools for testing my application.
 - Game gives text information for player. -->
 
 ## Screenshots
-<!-- ![4](https://user-images.githubusercontent.com/83215700/160609399-e5a7f919-d5bf-4386-a127-83c8e0aa156a.PNG) -->
-
+![challenge-photo](https://user-images.githubusercontent.com/83215700/161537601-624cd48b-aea2-4283-a35a-708b2c7c82ed.PNG)
 
 ## Project Status
 Project is in progress.
 
 ## Acknowledgements
-Thanks to https://bootstrapmade.com/demo/iPortfolio/ for template.
+Thanks to bootstrapmade.com for template:
+- Template Name: iPortfolio
+- Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+- Author: BootstrapMade.com
+- License: https://bootstrapmade.com/license/
+
 Thanks to https://megoh.github.io/ for an idea to make this webpage.
 
 ## Contact
