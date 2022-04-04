@@ -33,11 +33,11 @@ I was using Chrome developer tools for testing my application.
 Project is in progress.
 
 ## Acknowledgements
-Thanks to bootstrapmade.com for template.
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+- Thanks to bootstrapmade.com for template.
+- Template Name: iPortfolio
+- Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+- Author: BootstrapMade.com
+- License: https://bootstrapmade.com/license/
 
 Thanks to https://megoh.github.io/ for an idea to make this webpage.
 
