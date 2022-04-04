@@ -27,7 +27,7 @@ I was using Chrome developer tools for testing my application.
 - Game gives text information for player. -->
 
 ## Screenshots
-![challenge-photo](https://user-images.githubusercontent.com/83215700/161522223-9eab872c-0c68-4b9f-8dd3-544bf063bfa4.PNG)
+![challenge-photo](https://user-images.githubusercontent.com/83215700/161537601-624cd48b-aea2-4283-a35a-708b2c7c82ed.PNG)
 
 ## Project Status
 Project is in progress.
