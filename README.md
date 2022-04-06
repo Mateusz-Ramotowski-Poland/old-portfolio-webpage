@@ -18,7 +18,6 @@ Project is created with:
 * CSS3
 * JS(ES6+)
 * Bootstrap v5 
-* Google Maps API
 
 I was using Chrome developer tools for testing my application.
 <!-- ## Features
