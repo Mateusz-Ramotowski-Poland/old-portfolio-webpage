@@ -1,5 +1,5 @@
 # Portfolio webpage
-I used a ready template that I remodel to create a webpage portfolio. Live demo: [_here_](https://mateusz-ramotowski-poland.github.io/portfolio-webpage/).
+I used a ready template that I remodel to create a webpage portfolio. Live demo: [_here_](https://mateusz-ramotowski-poland.github.io/old-portfolio-webpage/).
 
 ## Table of Contents
 * [General Info](#general-information)
